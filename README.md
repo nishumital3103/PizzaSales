@@ -2,7 +2,7 @@
 
 This project is a Pizza Sale Analysis Dashboard created using Power BI to provide insights into sales performance, customer behavior, and operational efficiency. The dashboard helps stakeholders make data-driven decisions by visualizing key metrics and trends.
 
-Features
+## Features
 Sales Performance Overview: Analyze revenue, order volumes, and sales trends across different time periods.
 Customer Insights: Explore customer demographics, preferences, and purchase behaviors.
 Product Analysis: Identify best-selling pizza types, sizes, and topping combinations.
